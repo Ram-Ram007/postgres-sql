@@ -15,4 +15,5 @@
     - Update record SET name = 'hinata' where ID ='2';
 
 - Order By 
+    - Select * From records order by name;
     
