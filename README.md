@@ -16,4 +16,4 @@
 
 - Order By 
     - Select * From records order by name;
-    
+    - Select * From records order by name DESC;
