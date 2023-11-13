@@ -6,3 +6,5 @@
 - Insert query
     - Insert into records(id,name,marks) values(1,'ram','95');
 
+- Where clause
+    - Select * from records Where ID = '1';
