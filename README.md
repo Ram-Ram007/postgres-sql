@@ -8,3 +8,5 @@
 
 - Where clause
     - Select * from records Where ID = '1';
+
+    - Select * from records Where departments in ('it','ece') --> To get more than one value using IN.
